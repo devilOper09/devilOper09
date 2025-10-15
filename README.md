@@ -1,14 +1,14 @@
-<!-- 🌟 WELCOME GIF -->
+<!-- 🌟 WELCOME GIF - Spider-Man -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="80" alt="welcome gif">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" alt="spiderman welcome gif">
 </p>
 
 # 💫 About Me:
 👋 Hey, I’m **Harshit**<br><br>💻 A developer who loves to learn, experiment, and create things that actually work.<br>🎨 Code, design, and curiosity pretty much define my days.<br>🎧 When I’m not building something new, I’m usually creating music — exploring sound the same way I explore code: through ideas, patterns, and endless experimentation.
 
-<!-- 💻 CODING GIF -->
+<!-- 💻 FUN GIF - One Punch Man -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
+  <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" width="400" alt="one punch man gif">
 </p>
 
 ---
