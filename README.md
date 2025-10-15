@@ -1,6 +1,6 @@
 <!-- 🌟 WELCOME GIF - Spider-Man -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" alt="spiderman welcome gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXN6cG01aXNhcHc1anlsYWk0cWllYzUydWhuOGQybHdkdGRiamIzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif">
 </p>
 
 # 💫 About Me:
@@ -8,7 +8,7 @@
 
 <!-- 💻 FUN GIF - One Punch Man -->
 <p align="center">
-  <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" width="400" alt="one punch man gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd6dzVvc2gydmEzenNuNTgzbmZ5eHoybmhzMnRweW0wOWxhZTk0ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13cswZEvNJM7ZK/giphy.gif">
 </p>
 
 ---
